@@ -73,7 +73,7 @@ int main() {
 			screen = true;
 		}
 		// keypress for Riffle Ammo 
-		keypress = GetAsyncKeyState(VK_NUMPAD2 & 1);
+		keypress = GetAsyncKeyState(VK_F2);
 		if (RifleAmmo)
 		{
 			RifleAmmo = !RifleAmmo;
