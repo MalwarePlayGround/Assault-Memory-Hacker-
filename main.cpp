@@ -58,7 +58,7 @@ int main() {
 			std::cout << "Welcome to Assault Cube Memory Hacker" << std::endl;
 			std::cout << "======================================" << std::endl;
 			std::cout << "[F1] -" << (health ? "on" : "off") << ") Health to 100,000" << std::endl; 
-			std::cout << "[F5] -" << (RifleAmmo ? "on" : "off") << ") RifleAmmo to 100,000" << std::endl;
+			std::cout << "[F2] -" << (RifleAmmo ? "on" : "off") << ") RifleAmmo to 100,000" << std::endl;
 			std::cout << "[F2] -" << (GunAmmo ? "on" : "off") << ") GunAmmo to 100,000" << std::endl;
 			std::cout << "[F4] -" << (Grenades ? "on" : "off") << ") Grenades to 100,000" << std::endl;
 			screen = false;
