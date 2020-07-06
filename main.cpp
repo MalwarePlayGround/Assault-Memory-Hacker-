@@ -1,3 +1,5 @@
+// These Address are dynamic xD So I made just to test sth it won't work with u 
+
 #include <Windows.h>
 #include <iostream>
 
